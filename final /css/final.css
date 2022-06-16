@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body{
+	background-color: #ff9ff3;
+
+
+}
+.fan{
+text-align: center;
+color: white;
+	font-size: 38px;
+		font-family: 'Gochi Hand', cursive;
+}
+.botonera{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+
+	width: 50%;
+margin-left: 25%;
+margin-top: -1%;
+font-size: 20px;
+
+}
+
+.color{
+	color: white;
+	text-decoration:none;
+	font-family: 'DM Sans', sans-serif;
+}
+
+.video{
+	margin-top: 7%;
+	margin-left: 29%;
+}
+.cuadrado{
+	width: 70%;
+	height: 90%;
+	background-color: #f8a5c2;
+	margin-left: 14%;
+	margin-top: 2%;
+
+}
+.nueva{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	color: black;
+	font-size: 27px;
+		font-family: 'Gochi Hand', cursive;
+
+}
+
+.columna{
+	display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+margin-left: 25%;
+
+}
+.heart{
+font-size: 30px;
+align-self: center;
+}
+.spotify{
+	padding: 1%;
+
+}
+.iconos{
+
+justify-content: space-between;
+    display: flex;
+    width: 40%;
+padding: 3%;
+	margin-left: 28%;
+	margin-top: 2%;
+
+}
+.iconoss{
+		text-decoration: none;
+		color: black;
+}
+.titulo{
+	text-decoration: none;
+	color: white;
+}
+.contenedor{
+	display: flex;
+	flex-direction: row;
+	margin-left: -15%;
+}
+.albumes{
+font-size: 18px;
+		font-family: 'Gochi Hand', cursive;
+margin-left: -8%;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 2%;
+color: white;
+}
+.fotos{
+	display: flex;
+	flex-direction: column;
+	margin-top: 2%;
+	align-items: center;
+	width: 30%;
+	margin-left: 25%;
+	justify-content: space-between;
+
+}
+.img{
+	width: 20%;
+	height: 12%;
+	border-radius: 3%;
+}
+.tourss{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 15%;
+	width: 80%;
+	font-size: 27px;
+		font-family: 'Gochi Hand', cursive;
+		color: white;
+}
+
+.tours{
+
+	display: flex;
+	flex-direction: column;
+
+
+	   margin-top: 3%;
+    width: 25%;
+    height: 70%;
+    justify-content: space-between;
+}
+
+.dias{
+	display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    margin-top: 3%;
+    width: 15%;
+   
+    justify-content: space-between;
+}
+.ciudades{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 30%;
+    margin-top: 3%;
+    margin-left: -0%;
+
+}
+
+.contactanos{
+	margin-left: 5%;
+	color: white;
+font-size: 25px;
+	font-family: 'DM Sans', sans-serif;
+}
+.form{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-left: 5%;
+display: grid;
+
+}
+.formulario{
+	justify-content: space-between;
+	margin-top: 4%;
+
+}
+.formulario1{
+    line-height: 1.5
+    width:50%;
+
+}
+
+.caja{
+	margin-top: 4%;
+}
+.boton{
+	margin-top: 4%;
+	height: 106%;
+	width: 55%;
+	background-color: #9980FA;
+	font-size: 27px;
+		font-family: 'Gochi Hand', cursive;
+
+}
